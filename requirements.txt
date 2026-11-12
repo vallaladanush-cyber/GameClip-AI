@@ -1,0 +1,5 @@
+# Test runner. Application code for this milestone uses the Python standard library.
+pytest>=8,<9
+
+# System tools (not installed by pip). Both binaries ship with the FFmpeg package:
+#   brew install ffmpeg
